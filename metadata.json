@@ -1,0 +1,5 @@
+{
+  "name": "Tetris",
+  "description": "A classic Tetris game built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
